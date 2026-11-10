@@ -1,0 +1,7 @@
+Reference,Quantity,Value / part,Footprint,Notes
+Q1-Q2,2,2N3904 NPN,Package_TO_SOT_THT:TO-92_Inline,Check the exact vendor lead order against the footprint before assembly
+R1,1,1 kOhm,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Collector pull-up
+R2-R3,2,10 kOhm,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Base current limiting
+R4-R5,2,100 kOhm,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Base pull-down
+J1,1,1x4 2.54 mm pin header,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,Pin order +5V GND A B
+J2,1,1x2 2.54 mm pin header,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,Pin order Y GND
